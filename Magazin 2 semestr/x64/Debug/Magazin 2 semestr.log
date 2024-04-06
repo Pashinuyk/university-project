@@ -1,0 +1,47 @@
+﻿  Magazin 2 semestr.cpp
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(54,14): warning C4101: usl: неиспользованная локальная переменная
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(63,14): warning C4101: usl: неиспользованная локальная переменная
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(202,10): error C3646: tovar: неизвестный спецификатор переопределения
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(202,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(205,54): error C2061: синтаксическая ошибка: идентификатор "List"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(229,10): error C3646: GetList: неизвестный спецификатор переопределения
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(229,17): error C2059: синтаксическая ошибка: (
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(229,20): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(208,9): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(208,17): error C2065: goods: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(211,13): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(214,34): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(215,21): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(217,71): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(217,117): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(217,160): error C2065: tovar: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(238,9): error C2065: List: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(238,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "copy"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(238,14): error C2065: copy: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(238,27): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(240,31): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(242,29): error C2065: copy: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(244,21): error C2065: copy: необъявленный идентификатор
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(244,49): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(245,27): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(245,52): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(245,81): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(250,32): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(250,52): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(252,15): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(278,44): error C2039: "tovar": не является членом "Magazine".
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(197,7): message : см. объявление "Magazine"
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(278,36): error C2530: assort: ссылки должны быть инициализированы
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(353,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(434,57): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(683,18): error C2661: Magazine::Magazine: нет перегруженной функции, принимающей 3 аргументов
+C:\Users\Pavel\source\repos\Magazin 2 semestr\Magazin 2 semestr\Magazin 2 semestr.cpp(683,18): message : при попытке сопоставить список аргументов "(const char [5], const char [11], std::vector<Good *,std::allocator<Good *>>)"
