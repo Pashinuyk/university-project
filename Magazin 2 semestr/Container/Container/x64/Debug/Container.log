@@ -1,0 +1,4 @@
+﻿  Container.cpp
+C:\Users\Pavel\source\repos\Container\Container\Container.cpp(44,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\Container\Container\Container.cpp(114,58): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  Container.vcxproj -> C:\Users\Pavel\source\repos\Container\x64\Debug\Container.exe
