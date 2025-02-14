@@ -9,7 +9,7 @@ Base = declarative_base()
 metadata = Base.metadata
 
 class Abonent(Base):
-    __tablename__ = "abonent"
+    __tablename__ = "Abonent"
 
     tel = Column(String(10), primary_key=True)
     fio = Column(String(50), nullable=False)
